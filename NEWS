@@ -1,0 +1,25 @@
+News for Package 'WARN'
+
+# Changes in version 1.2-4 (2019-10-18)
+## New feature
+- Enabled calculation for mineral fraction
+
+# Changes in version 1.2-3 (2017-12-08)
+## New feature
+- Added 'plot = FALSE' option in 'warn.plot'
+
+# Changes in version 1.2-2 (2017-02-22)
+## Bug fix
+- Fixed bug in 'warnCI' function
+
+# Changes in version 1.2-1 (2016-06-23)
+## Bug fix
+- Fixed bug in 'warnCI' function
+
+# Changes in version 1.2-0 (2016-02-23)
+## New features
+- Added 'warnCI' function
+
+# Changes in version 1.1 (2014-11-04)
+## User-visible changes
+- Added warning for ">10 years of 'age'"
